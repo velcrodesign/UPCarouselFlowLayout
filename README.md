@@ -1,7 +1,7 @@
 UPCarouselFlowLayout
 ===============
 
-This is a clone from https://github.com/ink-spot/UPCarouselFlowLayout. The only thing that is charged is the spacingMode value from 40 to 10.
+This is a clone from https://github.com/ink-spot/UPCarouselFlowLayout. The only thing that is changed is the spacingMode value from 40 to 10.
 
 `UPCarouselFlowLayout` is a fancy carousel flow layout for `UICollectionView`. It comes with a paginated effect and it shrinks and makes transparent the side items.
 
